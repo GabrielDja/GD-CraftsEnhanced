@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "CDC",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ward_armor_trim_smithing_template"
+        },
+        "C": {
+            "item": "minecraft:cobbled_deepslate"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:ward_armor_trim_smithing_template",
+        "count": 2
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "FDF",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coast_armor_trim_smithing_template"
+        },
+        "F": {
+            "item": "minecraft:flint"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "result": {
+        "item": "minecraft:coast_armor_trim_smithing_template",
+        "count": 2
+    }
+}

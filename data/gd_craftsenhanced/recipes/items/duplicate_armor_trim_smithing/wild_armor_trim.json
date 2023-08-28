@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "MDM",
+        " M "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wild_armor_trim_smithing_template"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "M": {
+            "item": "minecraft:mossy_cobblestone"
+        }
+    },
+    "result": {
+        "item": "minecraft:wild_armor_trim_smithing_template",
+        "count": 2
+    }
+}

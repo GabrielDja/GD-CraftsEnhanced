@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "EDE",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:silence_armor_trim_smithing_template"
+        },
+        "E": {
+            "item": "minecraft:echo_shard"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "C": {
+            "item": "minecraft:cobbled_deepslate"
+        }
+    },
+    "result": {
+        "item": "minecraft:silence_armor_trim_smithing_template",
+        "count": 2
+    }
+}

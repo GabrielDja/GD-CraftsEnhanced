@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:gold_nugget"
+    },
+    "addition": {
+        "item": "minecraft:music_disc_11"
+    },
+    "result": {
+        "item": "minecraft:music_disc_13"
+    }
+}

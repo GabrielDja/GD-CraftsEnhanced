@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "CDC",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sentry_armor_trim_smithing_template"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:sentry_armor_trim_smithing_template",
+        "count": 2
+    }
+}

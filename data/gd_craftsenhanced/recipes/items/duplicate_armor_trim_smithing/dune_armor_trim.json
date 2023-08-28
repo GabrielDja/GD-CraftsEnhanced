@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "SDS",
+        " S "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dune_armor_trim_smithing_template"
+        },
+        "S": {
+            "item": "minecraft:sandstone"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:dune_armor_trim_smithing_template",
+        "count": 2
+    }
+}
