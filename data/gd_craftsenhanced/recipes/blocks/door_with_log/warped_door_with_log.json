@@ -7,11 +7,11 @@
     ],
     "key": {
         "#": {
-            "tag": "minecraft:birch_logs"
+            "tag": "minecraft:warped_logs"
         }
     },
     "result": {
-        "item": "minecraft:birch_door",
+        "item": "minecraft:warped_door",
         "count": 6
     }
 }
