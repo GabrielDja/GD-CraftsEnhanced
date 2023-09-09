@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:music_disc_11"
+    },
+    "addition": {
+        "item": "minecraft:pink_dye"
+    },
+    "result": {
+        "item": "minecraft:music_disc_mellohi"
+    }
+}
