@@ -1,5 +1,6 @@
 {
   "pack": {
+    "supported_formats": {"min_inclusive": 15, "max_inclusive": 22},
     "pack_format": 15,
     "description": "Adds recipes to improve the game, and eases or increases the difficulty of certain crafts."
   }
