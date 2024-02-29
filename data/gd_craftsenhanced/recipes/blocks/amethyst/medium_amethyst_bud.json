@@ -3,6 +3,7 @@
     "ingredient": {
         "item": "minecraft:amethyst_block"
     },
-    "result": "minecraft:medium_amethyst_bud",
-    "count": 1
+    "result": {
+        "id": "minecraft:medium_amethyst_bud"
+    }
 }

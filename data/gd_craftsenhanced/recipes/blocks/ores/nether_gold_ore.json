@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "minecraft:nether_gold_ore",
+        "id": "minecraft:nether_gold_ore",
         "count": 1
     }
 }

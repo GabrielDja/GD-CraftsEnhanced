@@ -7,6 +7,6 @@
         "item": "minecraft:music_disc_11"
     },
     "result": {
-        "item": "minecraft:music_disc_blocks"
+        "id": "minecraft:music_disc_blocks"
     }
 }

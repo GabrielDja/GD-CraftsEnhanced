@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "minecraft:iron_ore",
+        "id": "minecraft:iron_ore",
         "count": 1
     }
 }

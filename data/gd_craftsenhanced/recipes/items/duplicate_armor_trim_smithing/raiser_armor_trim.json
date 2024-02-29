@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:raiser_armor_trim_smithing_template",
+        "id": "minecraft:raiser_armor_trim_smithing_template",
         "count": 2
     }
 }

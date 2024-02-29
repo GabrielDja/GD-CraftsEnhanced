@@ -7,6 +7,6 @@
         "item": "minecraft:green_dye"
     },
     "result": {
-        "item": "minecraft:music_disc_ward"
+        "id": "minecraft:music_disc_ward"
     }
 }

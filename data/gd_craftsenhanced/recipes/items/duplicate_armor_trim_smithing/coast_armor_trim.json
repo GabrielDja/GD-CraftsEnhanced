@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:coast_armor_trim_smithing_template",
+        "id": "minecraft:coast_armor_trim_smithing_template",
         "count": 2
     }
 }

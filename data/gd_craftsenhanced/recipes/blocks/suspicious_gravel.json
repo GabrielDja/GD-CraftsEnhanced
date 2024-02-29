@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "minecraft:suspicious_gravel",
+        "id": "minecraft:suspicious_gravel",
         "count": 4
     }
 }

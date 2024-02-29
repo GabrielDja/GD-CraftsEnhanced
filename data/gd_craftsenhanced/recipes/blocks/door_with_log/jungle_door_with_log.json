@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "minecraft:jungle_door",
+        "id": "minecraft:jungle_door",
         "count": 6
     }
 }

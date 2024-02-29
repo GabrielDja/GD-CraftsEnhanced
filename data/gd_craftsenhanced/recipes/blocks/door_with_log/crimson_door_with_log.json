@@ -7,11 +7,11 @@
     ],
     "key": {
         "#": {
-            "tag": "minecraft:crimson_stem_logs"
+            "tag": "minecraft:crimson_stems"
         }
     },
     "result": {
-        "item": "minecraft:crimson_stem_door",
+        "id": "minecraft:crimson_door",
         "count": 6
     }
 }

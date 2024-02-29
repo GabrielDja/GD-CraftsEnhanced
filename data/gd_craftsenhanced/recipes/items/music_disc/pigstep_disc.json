@@ -7,6 +7,6 @@
         "item": "minecraft:netherrack"
     },
     "result": {
-        "item": "minecraft:music_disc_pigstep"
+        "id": "minecraft:music_disc_pigstep"
     }
 }

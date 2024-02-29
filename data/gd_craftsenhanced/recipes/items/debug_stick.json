@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "minecraft:debug_stick",
+        "id": "minecraft:debug_stick",
         "count": 1
     }
 }

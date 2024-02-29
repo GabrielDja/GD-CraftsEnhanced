@@ -7,6 +7,6 @@
         "item": "minecraft:purple_dye"
     },
     "result": {
-        "item": "minecraft:music_disc_mall"
+        "id": "minecraft:music_disc_mall"
     }
 }

@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:tide_armor_trim_smithing_template",
+        "id": "minecraft:tide_armor_trim_smithing_template",
         "count": 2
     }
 }

@@ -7,6 +7,6 @@
         "item": "minecraft:terracotta"
     },
     "result": {
-        "item": "minecraft:music_disc_relic"
+        "id": "minecraft:music_disc_relic"
     }
 }

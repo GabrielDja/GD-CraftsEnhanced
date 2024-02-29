@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "minecraft:suspicious_sand",
+        "id": "minecraft:suspicious_sand",
         "count": 4
     }
 }

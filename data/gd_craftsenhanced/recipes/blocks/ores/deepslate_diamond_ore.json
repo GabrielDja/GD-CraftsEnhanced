@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "minecraft:deepslate_diamond_ore",
+        "id": "minecraft:deepslate_diamond_ore",
         "count": 1
     }
 }

@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "minecraft:lapis_ore",
+        "id": "minecraft:lapis_ore",
         "count": 1
     }
 }

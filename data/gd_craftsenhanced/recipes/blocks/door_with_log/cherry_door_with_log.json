@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "minecraft:cherry_door",
+        "id": "minecraft:cherry_door",
         "count": 6
     }
 }

@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "minecraft:gold_ore",
+        "id": "minecraft:gold_ore",
         "count": 1
     }
 }

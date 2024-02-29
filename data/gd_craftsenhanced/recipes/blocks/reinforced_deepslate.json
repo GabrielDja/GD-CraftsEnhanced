@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "minecraft:reinforced_deepslate",
+        "id": "minecraft:reinforced_deepslate",
         "count": 1
     }
 }

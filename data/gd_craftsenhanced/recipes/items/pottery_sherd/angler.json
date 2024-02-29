@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:brick"
   },
-  "result": "minecraft:angler_pottery_sherd",
-  "count": 1
+  "result": {
+    "id": "minecraft:angler_pottery_sherd"
+  }
 }

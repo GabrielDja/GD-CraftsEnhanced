@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:soul_lantern",
+        "id": "minecraft:soul_lantern",
         "count": 1
     }
 }
