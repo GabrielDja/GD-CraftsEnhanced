@@ -1,12 +1,9 @@
 {
-    "type": "minecraft:smithing",
-    "base": {
-        "item": "minecraft:music_disc_11"
-    },
-    "addition": {
-        "item": "minecraft:purple_dye"
-    },
-    "result": {
-        "id": "minecraft:music_disc_mall"
-    }
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:music_disc_11"
+  },
+  "result": {
+    "id": "minecraft:music_disc_mall"
+  }
 }

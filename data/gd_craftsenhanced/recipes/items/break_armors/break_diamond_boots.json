@@ -5,11 +5,11 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:netherite_boots"
+            "item": "minecraft:diamond_boots"
         }
     },
     "result": {
-        "id": "minecraft:netherite_ingot",
-        "count": 1
+        "id": "minecraft:diamond",
+        "count": 2
     }
 }

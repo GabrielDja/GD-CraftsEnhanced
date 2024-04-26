@@ -1,12 +1,9 @@
 {
-    "type": "minecraft:smithing",
-    "base": {
-        "item": "minecraft:music_disc_11"
-    },
-    "addition": {
-        "item": "minecraft:green_dye"
-    },
-    "result": {
-        "id": "minecraft:music_disc_ward"
-    }
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:music_disc_11"
+  },
+  "result": {
+    "id": "minecraft:music_disc_ward"
+  }
 }

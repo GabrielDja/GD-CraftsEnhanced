@@ -5,11 +5,11 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:golden_leggings"
+            "item": "minecraft:diamond_helmet"
         }
     },
     "result": {
-        "id": "minecraft:gold_ingot",
-        "count": 7
+        "id": "minecraft:diamond",
+        "count": 3
     }
 }

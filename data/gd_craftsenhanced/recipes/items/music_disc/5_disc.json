@@ -1,12 +1,9 @@
 {
-    "type": "minecraft:smithing",
-    "base": {
-        "item": "minecraft:music_disc_11"
-    },
-    "addition": {
-        "item": "minecraft:echo_shard"
-    },
-    "result": {
-        "id": "minecraft:music_disc_5"
-    }
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:music_disc_11"
+  },
+  "result": {
+    "id": "minecraft:music_disc_5"
+  }
 }

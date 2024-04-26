@@ -1,12 +1,9 @@
 {
-    "type": "minecraft:smithing",
-    "base": {
-        "item": "minecraft:gold_nugget"
-    },
-    "addition": {
-        "item": "minecraft:music_disc_11"
-    },
-    "result": {
-        "id": "minecraft:music_disc_13"
-    }
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:music_disc_11"
+  },
+  "result": {
+    "id": "minecraft:music_disc_13"
+  }
 }

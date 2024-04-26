@@ -5,11 +5,11 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:diamond_helmet"
+            "item": "minecraft:netherite_chestplate"
         }
     },
     "result": {
-        "id": "minecraft:diamond",
-        "count": 5
+        "id": "minecraft:netherite_ingot",
+        "count": 4
     }
 }

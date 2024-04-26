@@ -5,11 +5,11 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:golden_chestplate"
+            "item": "minecraft:iron_leggings"
         }
     },
     "result": {
-        "id": "minecraft:gold_ingot",
-        "count": 8
+        "id": "minecraft:iron_ingot",
+        "count": 3
     }
 }
