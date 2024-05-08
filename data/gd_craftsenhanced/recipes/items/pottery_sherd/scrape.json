@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:brick"
+  },
+  "result": {
+    "id": "minecraft:scrape_pottery_sherd"
+  }
+}

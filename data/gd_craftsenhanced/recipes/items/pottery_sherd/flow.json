@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:brick"
+  },
+  "result": {
+    "id": "minecraft:flow_pottery_sherd"
+  }
+}
