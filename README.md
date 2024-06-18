@@ -1,6 +1,9 @@
 # GD CraftsEnhanced
 Adds Recipes to Improve the game, and Eases or increases the Difficulty of certain Crafts.
 
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/906606?style=for-the-badge&logo=curseforge&labelColor=31485b&color=orange)](https://www.curseforge.com/minecraft/mc-mods/gd-craftsenhanced)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/gd-craftsenhanced?style=for-the-badge&logo=modrinth&labelColor=31485b&color=green)](https://modrinth.com/datapack/gd-craftsenhanced)
+
 ![GD CraftsEnhanced - Preview](https://static.wixstatic.com/media/31958c_04f0ed125e404a788ff21f8ac42b477b~mv2.jpg)
 
 ## Downloads
