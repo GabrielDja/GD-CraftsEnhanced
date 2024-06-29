@@ -1,7 +1,37 @@
 GD CraftsEnhanced - By GabrielDja (This Changelog is in French)
-LICENSE: CC BY-NC-SA 4.0
+LICENSE: MIT License
 ------
 
+v1.8
+✨Nouvelles Recettes:
+- Trial Key (1.21)
+- Ominous Trial Key (1.21)
+- Armor Stand
+- Name Tag (2 craft variants)
+
+⚒️Améliorations:
+- Folder renamed for 1.21.
+	- recipes -> recipe
+- Crafter crafting now replaces vanilla crafting.
+
+⚙️Corrections:
+- 
+
+------------------
+v1.7
+Ajout du support pour Quilt (Nouveau).
+
+✨Nouvelles Recettes:
+- 
+
+⚒️Améliorations:
+- Project license update
+CC-BY-NC-SA-4.0 => MIT License
+
+⚙️Corrections:
+- 
+
+------------------
 v1.6
 Ajout du support pour Forge.
 Ajout du support pour NeoForge (Nouveau).

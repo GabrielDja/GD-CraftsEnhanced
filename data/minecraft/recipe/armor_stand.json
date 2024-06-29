@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " / ",
+    "///",
+    " _ "
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "_": {
+      "tag": "gd_craftsenhanced:stone_slabs"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:armor_stand"
+  }
+}

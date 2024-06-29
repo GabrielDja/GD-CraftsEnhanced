@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "rtr",
+        " c ",
+        "dcd"
+    ],
+    "key": {
+        "r": {
+            "item": "minecraft:redstone"
+        },
+        "t": {
+            "item": "minecraft:tuff"
+        },
+        "d": {
+            "item": "minecraft:green_dye"
+        },
+        "c": {
+            "item": "minecraft:copper_ingot"
+        }
+    },
+    "result": {
+        "id": "minecraft:ominous_trial_key",
+        "count": 1
+    }
+}
