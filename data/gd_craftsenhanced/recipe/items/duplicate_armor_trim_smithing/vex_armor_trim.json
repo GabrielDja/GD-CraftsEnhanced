@@ -6,15 +6,9 @@
         " C "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:vex_armor_trim_smithing_template"
-        },
-        "C": {
-            "item": "minecraft:cobblestone"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:vex_armor_trim_smithing_template",
+        "C": "minecraft:cobblestone",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:vex_armor_trim_smithing_template",

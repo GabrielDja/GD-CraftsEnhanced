@@ -6,15 +6,9 @@
         " S "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:dune_armor_trim_smithing_template"
-        },
-        "S": {
-            "item": "minecraft:sandstone"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:dune_armor_trim_smithing_template",
+        "S": "minecraft:sandstone",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:dune_armor_trim_smithing_template",

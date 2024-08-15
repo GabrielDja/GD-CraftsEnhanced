@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:netherite_scrap"
-        }
+        "#": "minecraft:netherite_scrap"
     },
     "result": {
         "id": "minecraft:ancient_debris",

@@ -6,15 +6,9 @@
         "EEE"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:ender_pearl"
-        },
-        "O": {
-            "item": "minecraft:obsidian"
-        },
-        "E": {
-            "item": "minecraft:end_stone"
-        }
+        "#": "minecraft:ender_pearl",
+        "O": "minecraft:obsidian",
+        "E": "minecraft:end_stone"
     },
     "result": {
         "id": "minecraft:end_portal_frame",

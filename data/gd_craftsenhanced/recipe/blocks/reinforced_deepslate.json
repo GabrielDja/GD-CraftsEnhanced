@@ -6,12 +6,8 @@
         " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:bone"
-        },
-        "P": {
-            "item": "minecraft:polished_basalt"
-        }
+        "#": "minecraft:bone",
+        "P": "minecraft:polished_basalt"
     },
     "result": {
         "id": "minecraft:reinforced_deepslate",

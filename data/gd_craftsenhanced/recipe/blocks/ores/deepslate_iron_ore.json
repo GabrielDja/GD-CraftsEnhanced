@@ -6,12 +6,8 @@
         "###"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:deepslate"
-        },
-        "R": {
-            "item": "minecraft:raw_iron"
-        }
+        "#": "minecraft:deepslate",
+        "R": "minecraft:raw_iron"
     },
     "result": {
         "id": "minecraft:deepslate_iron_ore",

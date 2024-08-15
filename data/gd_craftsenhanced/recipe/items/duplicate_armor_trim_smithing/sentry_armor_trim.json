@@ -6,15 +6,9 @@
         " C "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:sentry_armor_trim_smithing_template"
-        },
-        "C": {
-            "item": "minecraft:cobblestone"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:sentry_armor_trim_smithing_template",
+        "C": "minecraft:cobblestone",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:sentry_armor_trim_smithing_template",

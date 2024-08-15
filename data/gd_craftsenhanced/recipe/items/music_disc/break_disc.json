@@ -6,12 +6,8 @@
         "###"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:flint"
-        },
-        "G": {
-            "item": "minecraft:ghast_tear"
-        }
+        "#": "minecraft:flint",
+        "G": "minecraft:ghast_tear"
     },
     "result": {
         "id": "minecraft:music_disc_11",

@@ -6,15 +6,9 @@
         " B "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:snout_armor_trim_smithing_template"
-        },
-        "B": {
-            "item": "minecraft:blackstone"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:snout_armor_trim_smithing_template",
+        "B": "minecraft:blackstone",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:snout_armor_trim_smithing_template",

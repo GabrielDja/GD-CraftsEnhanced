@@ -4,9 +4,7 @@
         "#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:diamond_chestplate"
-        }
+        "#": "minecraft:diamond_chestplate"
     },
     "result": {
         "id": "minecraft:diamond",

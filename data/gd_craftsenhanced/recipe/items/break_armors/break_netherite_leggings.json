@@ -4,9 +4,7 @@
         "#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:netherite_leggings"
-        }
+        "#": "minecraft:netherite_leggings"
     },
     "result": {
         "id": "minecraft:netherite_ingot",

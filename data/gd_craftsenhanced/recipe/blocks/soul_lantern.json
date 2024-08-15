@@ -6,15 +6,9 @@
         "I"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:chain"
-        },
-        "S": {
-            "item": "minecraft:soul_torch"
-        },
-        "I": {
-            "item": "minecraft:iron_nugget"
-        }
+        "#": "minecraft:chain",
+        "S": "minecraft:soul_torch",
+        "I": "minecraft:iron_nugget"
     },
     "result": {
         "id": "minecraft:soul_lantern",

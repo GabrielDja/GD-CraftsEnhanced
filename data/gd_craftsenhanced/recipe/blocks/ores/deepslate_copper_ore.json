@@ -6,12 +6,8 @@
         "#R#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:deepslate"
-        },
-        "R": {
-            "item": "minecraft:raw_copper"
-        }
+        "#": "minecraft:deepslate",
+        "R": "minecraft:raw_copper"
     },
     "result": {
         "id": "minecraft:deepslate_copper_ore",

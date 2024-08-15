@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:amethyst_block"
-    },
+    "ingredient": [
+        "minecraft:amethyst_block"
+    ],
     "result": {
         "id": "minecraft:medium_amethyst_bud"
     }

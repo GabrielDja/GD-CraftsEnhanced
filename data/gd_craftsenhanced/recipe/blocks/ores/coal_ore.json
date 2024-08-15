@@ -6,12 +6,8 @@
         "###"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:stone"
-        },
-        "C": {
-            "item": "minecraft:coal"
-        }
+        "#": "minecraft:stone",
+        "C": "minecraft:coal"
     },
     "result": {
         "id": "minecraft:coal_ore",
