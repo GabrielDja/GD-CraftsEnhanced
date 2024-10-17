@@ -2,6 +2,20 @@ GD CraftsEnhanced - By GabrielDja (This Changelog is in French)
 LICENSE: MIT License
 ------
 
+v2.0
+Le pack pour la version 1.20.5+ ne sera plus maintenu.
+
+✨Nouvelles Recettes:
+- Banner Pattern (Stonecutter)
+
+⚒️Améliorations:
+- Prise en charge du format 57 > 1.21.2.
+
+⚙️Corrections:
+- La recette pour le bundle ne fonctionnait pas. (1.21+)
+- Toutes les recettes qui contenait des tags était cassé. (1.21.2+)
+
+------------------
 v1.9
 ✨Nouvelles Recettes:
 - 
