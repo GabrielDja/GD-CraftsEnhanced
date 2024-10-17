@@ -6,7 +6,7 @@
         "##"
     ],
     "key": {
-        "#": "minecraft:mangrove_logs"
+        "#": "#minecraft:mangrove_logs"
     },
     "result": {
         "id": "minecraft:mangrove_door",

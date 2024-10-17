@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#gd_craftsenhanced:all_banner_pattern",
+  "result": {
+    "id": "minecraft:piglin_banner_pattern"
+  }
+}

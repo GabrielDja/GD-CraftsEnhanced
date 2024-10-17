@@ -6,7 +6,7 @@
         "##"
     ],
     "key": {
-        "#": "minecraft:dark_oak_logs"
+        "#": "#minecraft:dark_oak_logs"
     },
     "result": {
         "id": "minecraft:dark_oak_door",

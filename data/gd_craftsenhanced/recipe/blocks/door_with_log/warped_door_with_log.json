@@ -6,7 +6,7 @@
         "##"
     ],
     "key": {
-        "#": "minecraft:warped_stems"
+        "#": "#minecraft:warped_stems"
     },
     "result": {
         "id": "minecraft:warped_door",

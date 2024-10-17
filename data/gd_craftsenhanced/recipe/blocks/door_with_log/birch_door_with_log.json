@@ -6,7 +6,7 @@
         "##"
     ],
     "key": {
-        "#": "minecraft:birch_logs"
+        "#": "#minecraft:birch_logs"
     },
     "result": {
         "id": "minecraft:birch_door",

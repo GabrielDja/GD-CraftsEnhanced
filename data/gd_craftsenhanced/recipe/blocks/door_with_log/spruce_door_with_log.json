@@ -6,7 +6,7 @@
         "##"
     ],
     "key": {
-        "#": "minecraft:spruce_logs"
+        "#": "#minecraft:spruce_logs"
     },
     "result": {
         "id": "minecraft:spruce_door",
