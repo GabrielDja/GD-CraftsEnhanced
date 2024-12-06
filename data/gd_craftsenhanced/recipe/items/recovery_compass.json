@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " I ",
+        "E#E",
+        " I "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:compass"
+        },
+        "E": {
+            "item": "minecraft:echo_shard"
+        },
+        "I": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "id": "minecraft:recovery_compass",
+        "count": 1
+    }
+}
