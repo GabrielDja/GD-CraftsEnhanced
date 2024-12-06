@@ -6,12 +6,8 @@
         " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:gold_nugget"
-        },
-        "N": {
-            "item": "minecraft:netherrack"
-        }
+        "#": "minecraft:gold_nugget",
+        "N": "minecraft:netherrack"
     },
     "result": {
         "id": "minecraft:nether_gold_ore",

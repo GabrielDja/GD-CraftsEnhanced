@@ -6,15 +6,9 @@
         " N "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:rib_armor_trim_smithing_template"
-        },
-        "N": {
-            "item": "minecraft:nether_brick"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:rib_armor_trim_smithing_template",
+        "N": "minecraft:nether_brick",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:rib_armor_trim_smithing_template",

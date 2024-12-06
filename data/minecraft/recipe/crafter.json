@@ -6,18 +6,10 @@
         "iDi"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:redstone"
-        },
-        "i": {
-            "item": "minecraft:iron_ingot"
-        },
-        "C": {
-            "item": "minecraft:crafting_table"
-        },
-        "D": {
-            "item": "minecraft:dropper"
-        }
+        "#": "minecraft:redstone",
+        "i": "minecraft:iron_ingot",
+        "C": "minecraft:crafting_table",
+        "D": "minecraft:dropper"
     },
     "result": {
         "id": "minecraft:crafter",

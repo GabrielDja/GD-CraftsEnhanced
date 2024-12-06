@@ -6,15 +6,9 @@
         " P "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:tide_armor_trim_smithing_template"
-        },
-        "P": {
-            "item": "minecraft:prismarine_shard"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:tide_armor_trim_smithing_template",
+        "P": "minecraft:prismarine_shard",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:tide_armor_trim_smithing_template",

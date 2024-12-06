@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:sand"
-        }
+        "#": "minecraft:sand"
     },
     "result": {
         "id": "minecraft:suspicious_sand",

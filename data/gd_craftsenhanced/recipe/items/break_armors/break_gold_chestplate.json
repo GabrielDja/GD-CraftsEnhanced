@@ -4,9 +4,7 @@
         "#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:golden_chestplate"
-        }
+        "#": "minecraft:golden_chestplate"
     },
     "result": {
         "id": "minecraft:gold_ingot",

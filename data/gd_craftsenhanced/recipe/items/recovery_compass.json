@@ -6,15 +6,9 @@
         " I "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:compass"
-        },
-        "E": {
-            "item": "minecraft:echo_shard"
-        },
-        "I": {
-            "item": "minecraft:iron_ingot"
-        }
+        "#": "minecraft:compass",
+        "E": "minecraft:echo_shard",
+        "I": "minecraft:iron_ingot"
     },
     "result": {
         "id": "minecraft:recovery_compass",

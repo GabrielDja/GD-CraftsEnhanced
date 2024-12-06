@@ -6,18 +6,10 @@
         " C "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:coast_armor_trim_smithing_template"
-        },
-        "F": {
-            "item": "minecraft:flint"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        },
-        "C": {
-            "item": "minecraft:cobblestone"
-        }
+        "#": "minecraft:coast_armor_trim_smithing_template",
+        "F": "minecraft:flint",
+        "D": "minecraft:diamond",
+        "C": "minecraft:cobblestone"
     },
     "result": {
         "id": "minecraft:coast_armor_trim_smithing_template",

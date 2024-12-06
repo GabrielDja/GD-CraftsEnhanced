@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "#gd_craftsenhanced:all_banner_pattern",
   "result": {
-    "id": "minecraft:skull_banner_pattern"
+    "id": "minecraft:field_masoned_banner_pattern"
   }
 }

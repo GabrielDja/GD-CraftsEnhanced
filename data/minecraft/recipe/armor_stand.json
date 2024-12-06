@@ -7,12 +7,8 @@
     " _ "
   ],
   "key": {
-    "/": {
-      "item": "minecraft:stick"
-    },
-    "_": {
-      "tag": "gd_craftsenhanced:stone_slabs"
-    }
+    "/": "minecraft:stick",
+    "_": "#gd_craftsenhanced:stone_slabs"
   },
   "result": {
     "count": 1,

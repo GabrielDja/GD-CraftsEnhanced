@@ -4,9 +4,7 @@
         "#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:iron_helmet"
-        }
+        "#": "minecraft:iron_helmet"
     },
     "result": {
         "id": "minecraft:iron_ingot",

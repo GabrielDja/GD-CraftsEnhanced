@@ -6,15 +6,9 @@
         " c "
     ],
     "key": {
-        "g": {
-            "item": "minecraft:glowstone_dust"
-        },
-        "t": {
-            "item": "minecraft:tuff"
-        },
-        "c": {
-            "item": "minecraft:copper_ingot"
-        }
+        "g": "minecraft:glowstone_dust",
+        "t": "minecraft:tuff",
+        "c": "minecraft:copper_ingot"
     },
     "result": {
         "id": "minecraft:trial_key",

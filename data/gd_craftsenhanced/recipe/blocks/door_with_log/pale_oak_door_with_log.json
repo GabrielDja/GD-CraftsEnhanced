@@ -2,13 +2,14 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "##",
+        "##",
         "##"
     ],
     "key": {
-        "#": "minecraft:netherite_scrap"
+        "#": "#minecraft:pale_oak_logs"
     },
     "result": {
-        "id": "minecraft:ancient_debris",
-        "count": 1
+        "id": "minecraft:pale_oak_door",
+        "count": 6
     }
 }

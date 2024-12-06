@@ -4,9 +4,7 @@
         "#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:chest"
-        }
+        "#": "minecraft:chest"
     },
     "result": {
         "id": "minecraft:oak_planks",

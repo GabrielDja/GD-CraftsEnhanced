@@ -6,18 +6,10 @@
         " C "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:silence_armor_trim_smithing_template"
-        },
-        "E": {
-            "item": "minecraft:echo_shard"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        },
-        "C": {
-            "item": "minecraft:cobbled_deepslate"
-        }
+        "#": "minecraft:silence_armor_trim_smithing_template",
+        "E": "minecraft:echo_shard",
+        "D": "minecraft:diamond",
+        "C": "minecraft:cobbled_deepslate"
     },
     "result": {
         "id": "minecraft:silence_armor_trim_smithing_template",

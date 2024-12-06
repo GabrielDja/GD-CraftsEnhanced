@@ -6,12 +6,8 @@
         "###"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:deepslate"
-        },
-        "R": {
-            "item": "minecraft:raw_gold"
-        }
+        "#": "minecraft:deepslate",
+        "R": "minecraft:raw_gold"
     },
     "result": {
         "id": "minecraft:deepslate_gold_ore",

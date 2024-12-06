@@ -6,18 +6,10 @@
         "dcd"
     ],
     "key": {
-        "r": {
-            "item": "minecraft:redstone"
-        },
-        "t": {
-            "item": "minecraft:tuff"
-        },
-        "d": {
-            "item": "minecraft:green_dye"
-        },
-        "c": {
-            "item": "minecraft:copper_ingot"
-        }
+        "r": "minecraft:redstone",
+        "t": "minecraft:tuff",
+        "d": "minecraft:green_dye",
+        "c": "minecraft:copper_ingot"
     },
     "result": {
         "id": "minecraft:ominous_trial_key",

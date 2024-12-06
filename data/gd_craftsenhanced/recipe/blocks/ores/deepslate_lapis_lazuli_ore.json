@@ -6,12 +6,8 @@
         " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:lapis_lazuli"
-        },
-        "D": {
-            "item": "minecraft:deepslate"
-        }
+        "#": "minecraft:lapis_lazuli",
+        "D": "minecraft:deepslate"
     },
     "result": {
         "id": "minecraft:deepslate_lapis_ore",

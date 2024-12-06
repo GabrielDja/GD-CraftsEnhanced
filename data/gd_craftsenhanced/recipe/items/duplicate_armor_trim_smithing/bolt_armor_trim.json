@@ -6,15 +6,9 @@
         " c "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:bolt_armor_trim_smithing_template"
-        },
-        "c": {
-            "item": "minecraft:copper_ingot"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:bolt_armor_trim_smithing_template",
+        "c": "minecraft:copper_ingot",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:bolt_armor_trim_smithing_template",

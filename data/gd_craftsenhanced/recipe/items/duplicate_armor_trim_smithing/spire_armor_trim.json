@@ -6,15 +6,9 @@
         " P "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:spire_armor_trim_smithing_template"
-        },
-        "P": {
-            "item": "minecraft:purpur_block"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:spire_armor_trim_smithing_template",
+        "P": "minecraft:purpur_block",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:spire_armor_trim_smithing_template",

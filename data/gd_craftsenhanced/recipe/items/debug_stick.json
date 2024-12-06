@@ -6,12 +6,8 @@
         "#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:redstone_block"
-        },
-        "/": {
-            "item": "minecraft:stick"
-        }
+        "#": "minecraft:redstone_block",
+        "/": "minecraft:stick"
     },
     "result": {
         "id": "minecraft:debug_stick",

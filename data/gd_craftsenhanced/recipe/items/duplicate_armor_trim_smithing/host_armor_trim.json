@@ -6,15 +6,9 @@
         " B "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:host_armor_trim_smithing_template"
-        },
-        "B": {
-            "item": "minecraft:terracotta"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:host_armor_trim_smithing_template",
+        "B": "minecraft:terracotta",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:host_armor_trim_smithing_template",

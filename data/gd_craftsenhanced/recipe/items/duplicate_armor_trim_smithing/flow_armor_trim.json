@@ -6,15 +6,9 @@
         " B "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:flow_armor_trim_smithing_template"
-        },
-        "B": {
-            "item": "minecraft:breeze_rod"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:flow_armor_trim_smithing_template",
+        "B": "minecraft:breeze_rod",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:flow_armor_trim_smithing_template",

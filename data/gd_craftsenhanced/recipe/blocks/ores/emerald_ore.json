@@ -6,12 +6,8 @@
         " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:stone"
-        },
-        "E": {
-            "item": "minecraft:emerald"
-        }
+        "#": "minecraft:stone",
+        "E": "minecraft:emerald"
     },
     "result": {
         "id": "minecraft:emerald_ore",

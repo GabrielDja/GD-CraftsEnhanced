@@ -6,15 +6,9 @@
         " C "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:ward_armor_trim_smithing_template"
-        },
-        "C": {
-            "item": "minecraft:cobbled_deepslate"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+        "#": "minecraft:ward_armor_trim_smithing_template",
+        "C": "minecraft:cobbled_deepslate",
+        "D": "minecraft:diamond"
     },
     "result": {
         "id": "minecraft:ward_armor_trim_smithing_template",
