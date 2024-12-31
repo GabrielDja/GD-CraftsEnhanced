@@ -1,10 +1,11 @@
 # GD CraftsEnhanced
 Adds Recipes to Improve the game, and Eases or increases the Difficulty of certain Crafts.
 
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/906606?style=for-the-badge&logo=curseforge&labelColor=31485b&color=orange)](https://www.curseforge.com/minecraft/mc-mods/gd-craftsenhanced)
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/gd-craftsenhanced?style=for-the-badge&logo=modrinth&labelColor=31485b&color=green)](https://modrinth.com/datapack/gd-craftsenhanced)
+[![Wiki Badge](https://img.shields.io/badge/-WIKI-026b8a?style=for-the-badge&logo=GitBook&logoColor=white)](https://gabriel-djalayer.gitbook.io/gdteam-wiki/creations/mods/gd-betterloot)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/906606?style=for-the-badge&logo=curseforge&labelColor=2c2c2c&color=026b8a)](https://www.curseforge.com/minecraft/mc-mods/gd-craftsenhanced)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/gd-craftsenhanced?style=for-the-badge&logo=modrinth&labelColor=2c2c2c&color=026b8a)](https://modrinth.com/datapack/gd-craftsenhanced)
 
-![GD CraftsEnhanced - Preview](https://static.wixstatic.com/media/31958c_04f0ed125e404a788ff21f8ac42b477b~mv2.jpg)
+![GD CraftsEnhanced - Preview](https://static.wixstatic.com/media/31958c_f950f07717514b6bbcaaa1a644b406fa~mv2.png)
 
 ## Downloads
 
