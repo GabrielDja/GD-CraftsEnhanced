@@ -2,6 +2,19 @@ GD CraftsEnhanced - By GabrielDja (This Changelog is in French)
 LICENSE: MIT License
 ------
 
+v2.2
+Les recettes remplacent désormais les recettes vanilla (affecte uniquement les items avec un craft en vanilla).
+
+✨Nouvelles recettes:
+- 
+
+⚒️Améliorations:
+- Prise en charge du format 71 (1.21.5)
+
+⚙️Corrections:
+- 
+
+------------------
 v2.1
 Le pack pour la version 1.21.2+ ne sera plus maintenu.
 
