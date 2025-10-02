@@ -1,0 +1,12 @@
+name: 💡 Suggest a recipe
+description: Got a recipe idea to add? You can do it here!
+title: '[New Recipe] '
+labels:
+  - suggest
+body:
+  - type: textarea
+    attributes:
+      label: The recipe
+      description: Specify the ingredients and the result of the recipe.
+    validations:
+      required: true

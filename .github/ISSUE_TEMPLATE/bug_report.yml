@@ -1,0 +1,24 @@
+name: 🐛 Bug report
+description: Found a bug? Let me know.
+title: '[Bug] '
+labels:
+  - bug
+body:
+  - type: dropdown
+    attributes:
+      label: Game Version
+      description: On which version of the game do you encounter the problem?
+      options:
+        - 1.21.5
+        - 1.21.4
+        - 1.21.2+
+        - 1.21+
+        - 1.20.5+
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Info
+      description: Describe the problem?
+    validations:
+      required: true
