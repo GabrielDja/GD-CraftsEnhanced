@@ -1,7 +1,27 @@
-GD CraftsEnhanced - By GabrielDja (This Changelog is in French)
-LICENSE: MIT License
+GD CraftsEnhanced - By GabrielDja (This changelog is in French)
 ------
 
+v2.3
+✨Nouvelles recettes
+- Music Disc - Tears
+- Music Disc - Lava Chicken
+- Copper Lantern
+
+⚒️Changements
+- Prise en charge du format 94 (1.21.11)
+- Détruire une armure en Netherite rapporte :
+  - Helmet = 2 Ingots
+  - Chestplate = 4 Ingots
+  - Leggings = 3 Ingots
+  - Boots = 2 Ingots
+- Recettes mis à jour :
+	- All Lanterns
+	- Saddle
+
+🐛Corrections
+- 
+
+------------------
 v2.2
 Les recettes remplacent désormais les recettes vanilla (affecte uniquement les items avec un craft en vanilla).
 
@@ -125,6 +145,17 @@ Forge n'a pas encore été mis à jour vers la 1.20.5.
 - 
 
 ------------------
+v1.4
+✨Nouvelles Recettes:
+- 
+
+⚒️Améliorations:
+- 
+
+⚙️Corrections:
+- Correction d'un crash au démarrage du jeu.
+
+------------------
 v1.3
 ✨Nouvelles Recettes:
 - 
@@ -132,6 +163,9 @@ v1.3
 ⚒️Améliorations:
 - Prend en charge la version 33 du pack (24w09a).
 - Non compatible avec les anciennes versions.
+
+⚙️Corrections:
+- Les crafts suivants ne fonctionnait pas: Crimson Door, Warped Door
 
 ------------------
 v1.2
@@ -187,10 +221,11 @@ v1.0 - Beta2
 - Trident
 
 ⚒️Améliorations:
-- Les Armor Trim "Wayfinder, Raiser, Shaper, Host" ont été amélioré.
+- Les Armor Trim "Wayfinder, Raiser, Shaper, Host, Wild" ont été amélioré
 - Le Craft de "Ancient Debris" à été amélioré.
 - Les Portes Crafter avec des Bûches en donnent désormais 6.
 - Les Portes en Mangrove, Cherry, Crimson et Warped peuvent désormais se crafter avec des bûches.
+- Mise à Jour des Liens
 
 ------------------
 v1.0 - Beta1
