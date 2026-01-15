@@ -1,15 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": "minecraft:iron_chain",
+        "T": "minecraft:torch",
+        "I": "minecraft:iron_nugget"
+    },
     "pattern": [
         " # ",
         "ITI",
         " I "
     ],
-    "key": {
-        "#": "minecraft:chain",
-        "T": "minecraft:torch",
-        "I": "minecraft:iron_nugget"
-    },
     "result": {
         "id": "minecraft:lantern",
         "count": 1

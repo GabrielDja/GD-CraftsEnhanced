@@ -1,15 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " # ",
-        "ISI",
-        " I "
-    ],
+    "category": "misc",
     "key": {
-        "#": "minecraft:chain",
-        "S": "minecraft:soul_torch",
+        "#": "minecraft:iron_chain",
+        "T": "minecraft:soul_torch",
         "I": "minecraft:iron_nugget"
     },
+    "pattern": [
+        " # ",
+        "ITI",
+        " I "
+    ],
     "result": {
         "id": "minecraft:soul_lantern",
         "count": 1

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:music_disc_11"
+  ],
+  "result": {
+    "id": "minecraft:music_disc_lava_chicken"
+  }
+}

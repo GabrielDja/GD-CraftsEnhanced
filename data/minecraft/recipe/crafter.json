@@ -1,16 +1,17 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "###",
-        "iCi",
-        "iDi"
-    ],
+    "category": "redstone",
     "key": {
         "#": "minecraft:redstone",
         "i": "minecraft:iron_ingot",
         "C": "minecraft:crafting_table",
         "D": "minecraft:dropper"
     },
+    "pattern": [
+        "###",
+        "iCi",
+        "iDi"
+    ],
     "result": {
         "id": "minecraft:crafter",
         "count": 1

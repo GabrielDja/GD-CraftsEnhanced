@@ -1,15 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "###",
-        "S S",
-        "i i"
-    ],
+    "category": "equipment",
     "key": {
         "#": "minecraft:leather",
         "S": "minecraft:string",
-        "i": "minecraft:iron_ingot"
+        "I": "minecraft:iron_nugget"
     },
+    "pattern": [
+        "###",
+        "S S",
+        "I I"
+    ],
     "result": {
         "id": "minecraft:saddle",
         "count": 1
