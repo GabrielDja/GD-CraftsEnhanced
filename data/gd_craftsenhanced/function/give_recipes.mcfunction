@@ -87,6 +87,13 @@ recipe give @a gd_craftsenhanced:items/duplicate_armor_trim_smithing/ward_armor_
 recipe give @a gd_craftsenhanced:items/duplicate_armor_trim_smithing/wayfinder_armor_trim
 recipe give @a gd_craftsenhanced:items/duplicate_armor_trim_smithing/wild_armor_trim
 
+# Items > Nautilus Armors
+recipe give @a gd_craftsenhanced:items/nautilus_armors/copper_nautilus_armor
+recipe give @a gd_craftsenhanced:items/nautilus_armors/diamond_nautilus_armor
+recipe give @a gd_craftsenhanced:items/nautilus_armors/golden_nautilus_armor
+recipe give @a gd_craftsenhanced:items/nautilus_armors/iron_nautilus_armor
+recipe give @a gd_craftsenhanced:items/nautilus_armors/netherite_nautilus_armor
+
 # Items
 recipe give @a gd_craftsenhanced:items/cobweb
 recipe give @a gd_craftsenhanced:items/dead_bush

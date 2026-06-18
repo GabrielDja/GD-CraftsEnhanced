@@ -1,6 +1,19 @@
 GD CraftsEnhanced - By GabrielDja (This changelog is in French)
 ------
 
+# v2.4
+✨ **New Recipes**
+- All Nautilus Armor
+- Music Disc: Bounce
+
+⚒️ **Changes**
+- Support for Format `107` (26.2+)
+- Change in version numbering for mod version.
+
+🐛 **Fixes**
+- 
+
+------------------
 v2.3
 ✨Nouvelles recettes
 - Music Disc - Tears

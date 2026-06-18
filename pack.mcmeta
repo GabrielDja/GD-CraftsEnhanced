@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 94,
     "min_format": 94,
-    "max_format": 95,
+    "max_format": 107,
     "description": "Add and replace recipes to improve gameplay and make certain crafts easier or more difficult."
   }
 }
